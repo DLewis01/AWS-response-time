@@ -4,6 +4,8 @@ This is useful for finding which is the quickest AZ for you over time as well as
 
 ![Screenshot 2024-10-31 at 5 05 03 pm](https://github.com/user-attachments/assets/0cf24669-835c-4d04-ae85-83b602f852a5)
 
+![Screenshot 2024-10-31 at 5 07 05 pm](https://github.com/user-attachments/assets/cec6662e-0332-4abc-a190-388a77054fa4)
+
 Requirements
   GNUplot
 
