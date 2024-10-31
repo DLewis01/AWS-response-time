@@ -1,0 +1,34 @@
+Africa (Cape Town),af-south-1,ec2.af-south-1.amazonaws.com
+Asia Pacific (Hong Kong),ap-east-1,ec2.ap-east-1.amazonaws.com
+Asia Pacific (Tokyo),ap-northeast-1,ec2.ap-northeast-1.amazonaws.com
+Asia Pacific (Seoul),ap-northeast-2,ec2.ap-northeast-2.amazonaws.com
+Asia Pacific (Osaka),ap-northeast-3,ec2.ap-northeast-3.amazonaws.com
+Asia Pacific (Mumbai),ap-south-1,ec2.ap-south-1.amazonaws.com
+Asia Pacific (Hyderabad),ap-south-2,ec2.ap-south-2.amazonaws.com
+Asia Pacific (Singapore),ap-southeast-1,ec2.ap-southeast-1.amazonaws.com
+Asia Pacific (Sydney),ap-southeast-2,ec2.ap-southeast-2.amazonaws.com
+Asia Pacific (Jakarta),ap-southeast-3,ec2.ap-southeast-3.amazonaws.com
+Asia Pacific (Melbourne),ap-southeast-4,ec2.ap-southeast-4.amazonaws.com
+Asia Pacific (Malaysia),ap-southeast-5,ec2.ap-southeast-5.amazonaws.com
+Canada (Central),ca-central-1,ec2.ca-central-1.amazonaws.com
+Canada West (Calgary),ca-west-1,ec2.ca-west-1.amazonaws.com
+China (Beijing),cn-north-1,ec2.cn-north-1.amazonaws.com.cn
+China (Ningxia),cn-northwest-1,ec2.cn-northwest-1.amazonaws.com.cn
+Europe (Frankfurt),eu-central-1,ec2.eu-central-1.amazonaws.com
+Europe (Zurich),eu-central-2,ec2.eu-central-2.amazonaws.com
+Europe (Stockholm),eu-north-1,ec2.eu-north-1.amazonaws.com
+Europe (Milan),eu-south-1,ec2.eu-south-1.amazonaws.com
+Europe (Spain),eu-south-2,ec2.eu-south-2.amazonaws.com
+Europe (Ireland),eu-west-1,ec2.eu-west-1.amazonaws.com
+Europe (London),eu-west-2,ec2.eu-west-2.amazonaws.com
+Europe (Paris),eu-west-3,ec2.eu-west-3.amazonaws.com
+Israel (Tel Aviv),il-central-1,ec2.il-central-1.amazonaws.com
+Middle East (UAE),me-central-1,ec2.me-central-1.amazonaws.com
+Middle East (Bahrain),me-south-1,ec2.me-south-1.amazonaws.com
+South America (Sao Paulo),sa-east-1,ec2.sa-east-1.amazonaws.com
+US East (N. Virginia),us-east-1,ec2.us-east-1.amazonaws.com
+US East (Ohio),us-east-2,ec2.us-east-2.amazonaws.com
+AWS GovCloud (US-East),us-gov-east-1,ec2.us-gov-east-1.amazonaws.com
+AWS GovCloud (US-West),us-gov-west-1,ec2.us-gov-west-1.amazonaws.com
+US West (N. California),us-west-1,ec2.us-west-1.amazonaws.com
+US West (Oregon),us-west-2,ec2.us-west-2.amazonaws.com
