@@ -17,6 +17,8 @@ Install
 
   create a subdir mkdir {path}/graphs
 
+  edit the script to point to your webdirectory by setting WEBDIR="you web path" or set it to the install directory if you don't want a publically visible webpage.
+
   set a crontab to run it every hour
 
   1 * * * * {path}/aws_response.sh
