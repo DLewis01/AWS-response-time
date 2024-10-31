@@ -5,15 +5,23 @@ This is useful for finding which is the quickest AZ for you over time as well as
 Requirements
   GNUplot
 
-  you can usually install this with yum install gnuplot or dnf install gnuplot
+  you can usually install this with 
+      yum install gnuplot 
+        or 
+      dnf install gnuplot
+        of if you are on Mac with either
 
+      port install gnuplot
+      
+      brew install gnuplot
+      
 Install
 
   Put this script where you like
 
   make it executable with
 
-  chmod +x aws_response.sh
+    chmod +x aws_response.sh
 
   create a subdir mkdir {path}/graphs
 
