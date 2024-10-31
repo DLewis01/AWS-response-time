@@ -7,11 +7,13 @@ Requirements
 
   you can usually install this with 
       yum install gnuplot 
-        or 
+  or 
       dnf install gnuplot
-        of if you are on Mac with either
+    
+  or if you are on Mac with either
 
       port install gnuplot
+      
       
       brew install gnuplot
       
