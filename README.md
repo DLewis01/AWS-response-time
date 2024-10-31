@@ -1,5 +1,6 @@
 # AWS-response-time
 Graph hourly timings on AWS AZ responses and create a web page
+This is useful for finding which is the quickest AZ for you over time as well as finding service degradation
 
 Requirements
   GNUplot
@@ -10,7 +11,11 @@ Install
 
   Put this script where you like
 
+  make it executable with
+
   chmod +x aws_response.sh
+
+  create a subdir mkdir {path}/graphs
 
   set a crontab to run it every hour
 
